@@ -1,0 +1,8 @@
+{
+  "name": "NusaAI Omni-Assistant",
+  "description": "A versatile AI assistant featuring text chat, real-time voice conversation, and creative image generation powered by Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
